@@ -8,7 +8,3 @@ My contributions included:
 - Creating the Patient and Doctor data structures
 - Implementing patient and doctor creation features
 - Developing the practical exam extension (Option 6 – Data Analysis Tool)
-
-Other team members contributed to implementing:
-- Patient information display
-- Doctor information display
